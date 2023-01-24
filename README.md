@@ -1,4 +1,4 @@
-#Photo Search React App
+Photo Search React App
 
-*Using Unsplace API
-*Completly Responsive Degine
+1.Using Unsplace API
+2.Completly Responsive Degine
